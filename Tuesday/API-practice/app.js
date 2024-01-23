@@ -2,4 +2,7 @@
 
 const data = [];
 const natDisaster = document.getElementById("natDisaster");
+
+const fetchData = 
+https://earthquake.usgs.gov/fdsnws/event/1/application.json.format=text
 https://api.reliefweb.int/v1/reports?appname=apidoc&limit=2
